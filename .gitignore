@@ -1,0 +1,27 @@
+# Built APK/AAB export directory
+/builds/
+
+# Gradle & Android Studio & NDK
+.gradle/
+/build/
+/app/build/
+/app/.gradle/
+/app/.cxx/
+/app/.externalNativeBuild/
+.idea/
+*.iml
+local.properties
+
+# OS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Binaries & Outputs
+*.apk
+*.aab
+*.dex
+*.class
